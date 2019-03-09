@@ -1,6 +1,6 @@
 # To-Do-List
 ## Introduction
-CS 193A, Assignment 2: This is a simple to do list app. I am uploading the main activity's [kotlin code](https://github.com/devansh287/To-Do-List/blob/master/ToDoListActivity.kt) and XML.
+CS 193A, Assignment 2: This is a simple to do list app. I am uploading the main activity's [kotlin code](https://github.com/devansh287/To-Do-List/blob/master/ToDoListActivity.kt) and [XML](https://github.com/devansh287/To-Do-List/blob/master/activity_to_do_list.xml) besides the entire app in the .zip folder.
 ## Feautures
 This to-do list app has the follwoing features:
 1. Add items
